@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>751569c4-7f7a-4f25-8daf-638cc532a4ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//coral-panelstack[@id='coral-id-12']/coral-panel/coral-panel-content/div/div/coral-masonry/coral-masonry-item[43]/coral-card/coral-card-asset/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4b04f96a-ae65-4f66-a8cf-abd69b14f26a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/apps/intel/commons/templates/mobileFirst/mf-article-long/thumbnail.png</value>
+      <webElementGuid>74876e9d-6b26-4d3f-b796-11a602bc8cbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;coral-id-12&quot;)/coral-panel[@class=&quot;coral3-Panel is-selected&quot;]/coral-panel-content[1]/div[@class=&quot;foundation-wizard-step foundation-layout-util-maximized-container foundation-wizard-step-active&quot;]/div[@class=&quot;foundation-advancedselect foundation-layout-util-maximized-container&quot;]/coral-masonry[@class=&quot;foundation-advancedselect-collection aria-skiphandling foundation-collection foundation-layout-masonry coral3-Masonry is-selectable is-loaded&quot;]/coral-masonry-item[@class=&quot;foundation-collection-item coral3-Masonry-item is-managed&quot;]/coral-card[@class=&quot;coral3-Card&quot;]/coral-card-asset[1]/img[1]</value>
+      <webElementGuid>3ee3f8e4-f799-440d-8723-58533fff519f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//coral-panelstack[@id='coral-id-12']/coral-panel/coral-panel-content/div/div/coral-masonry/coral-masonry-item[43]/coral-card/coral-card-asset/img</value>
+      <webElementGuid>471dff7b-dd77-4416-b8fb-f64dbdb3263e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//coral-masonry-item[43]/coral-card/coral-card-asset/img</value>
+      <webElementGuid>0ecf2afb-7aa4-4e9c-b7d3-0347d4ff7a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/apps/intel/commons/templates/mobileFirst/mf-article-long/thumbnail.png']</value>
+      <webElementGuid>762ea72f-88bd-4588-9699-69da2d411446</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>coral-button-label_Save  Close</name>
+   <tag></tag>
+   <elementGuidId>cdfb1cad-08dc-47c5-8113-9e4878c3922e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='shell-propertiespage-doneactivator']/coral-button-label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#shell-propertiespage-doneactivator > coral-button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>coral-button-label</value>
+      <webElementGuid>dc50c20b-4ece-4605-ac92-24b7b92a044e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save &amp; Close</value>
+      <webElementGuid>7905d873-de29-4040-8c0e-698b29ab711c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shell-propertiespage-doneactivator&quot;)/coral-button-label[1]</value>
+      <webElementGuid>7dd12b9c-3b40-43c6-b064-f36651f1ed7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='shell-propertiespage-doneactivator']/coral-button-label</value>
+      <webElementGuid>b1861366-ebb9-42ef-a43f-5d79e168a381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::coral-button-label[1]</value>
+      <webElementGuid>1717b114-fcde-44d8-b466-f300913e9144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Effective Permissions'])[1]/following::coral-button-label[4]</value>
+      <webElementGuid>1a00cfd0-fc3f-4125-aeb2-869a6d27536f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ctrl+s'])[1]/preceding::coral-button-label[3]</value>
+      <webElementGuid>3de5c673-0476-467a-adc3-aa5bf758dfe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save &amp; Close']/parent::*</value>
+      <webElementGuid>4df1434b-faea-4325-ac31-e935fa22c607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//coral-buttongroup/button/coral-button-label</value>
+      <webElementGuid>baaf4236-0c33-4ce4-987e-a6390e51affa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//coral-button-label[(text() = 'Save &amp; Close' or . = 'Save &amp; Close')]</value>
+      <webElementGuid>1a4c666c-c3a7-4bf7-92b3-2b9d82ad200e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

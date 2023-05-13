@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Select Path_js-coral-pathbrowser-con_d9f340</name>
+   <tag></tag>
+   <elementGuidId>05828393-004a-4a1c-b2c8-a1adb2414d01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.js-coral-pathbrowser-confirm.coral-Button.coral-Button--square.coral-Button--primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>135d80a9-6387-48fd-9aa5-005e7889f089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a651adeb-c9f8-4040-a37e-5e0ce9271700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>js-coral-pathbrowser-confirm coral-Button coral-Button--square coral-Button--primary</value>
+      <webElementGuid>e3a87c0f-9c50-4fc6-80a4-ed95e3da672e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Confirm</value>
+      <webElementGuid>70e1b0b3-f3c6-4500-a327-f313200fd9f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mod-guid-1&quot;)/div[@class=&quot;coral-Modal-header&quot;]/button[@class=&quot;js-coral-pathbrowser-confirm coral-Button coral-Button--square coral-Button--primary&quot;]</value>
+      <webElementGuid>6419cb89-1c02-4674-ad2e-17e3b05471fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>2f1b7e19-b7e3-4742-bcd9-9e665ff7fb31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mod-guid-1']/div/button</value>
+      <webElementGuid>3553d752-233a-43cb-8eca-28bc0fb49017</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Path'])[1]/following::button[1]</value>
+      <webElementGuid>7d0f3b6a-6478-417f-81dd-c6f5581e84ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Business Owner*'])[1]/following::button[2]</value>
+      <webElementGuid>b7927728-6926-4c6d-8dfa-999464a2783b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dam'])[1]/preceding::button[2]</value>
+      <webElementGuid>1350ef26-ae9e-4c69-ba49-851a62535033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='icon-dsa.png'])[1]/preceding::button[2]</value>
+      <webElementGuid>7717cb02-bf8f-406c-bd50-23db022318fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>829bb0ae-115f-4191-950c-3513173fb968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Confirm']</value>
+      <webElementGuid>81150801-8494-4cf2-a854-80d27080c6cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Article Paragraph</name>
+   <tag></tag>
+   <elementGuidId>9a485f9d-1755-4d32-b198-429da9913aa3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='OverlayWrapper']/div[8]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cq-Overlay.cq-Overlay--component.cq-draggable.cq-droptarget.cq-Overlay--placeholder.is-hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ec032248-a617-4356-9736-29bdcd2b587a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>Editable</value>
+      <webElementGuid>ba0b21b7-1240-4a83-9013-86bb4dde96eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-path</name>
+      <type>Main</type>
+      <value>/content/www/us/en/develop/test-jump/jcr:content/articlebladepar/articleparagraph</value>
+      <webElementGuid>dd262985-3331-409d-bd08-8a1e565ba589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>1f3889e8-cad7-48dd-a77c-88feac817d93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>dea7b965-fcfd-42fd-9dec-5651311332fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cq-Overlay cq-Overlay--component cq-draggable cq-droptarget cq-Overlay--placeholder is-hover</value>
+      <webElementGuid>d4288abe-14cb-4705-81f2-4defe80ae790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-text</name>
+      <type>Main</type>
+      <value>Article Paragraph</value>
+      <webElementGuid>bcfc946d-3d68-41b6-83de-fab11e94b157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Article Paragraph</value>
+      <webElementGuid>58b66975-074e-4c64-80d9-e5f17e9a098e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Article Paragraph</value>
+      <webElementGuid>4628e522-554b-408d-8c1a-d1ead0482ced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;OverlayWrapper&quot;)/div[@class=&quot;cq-Overlay cq-Overlay--component cq-Overlay--container is-disabled&quot;]/div[@class=&quot;cq-Overlay cq-Overlay--component cq-draggable cq-droptarget cq-Overlay--placeholder is-hover&quot;]</value>
+      <webElementGuid>3b9470e9-d37d-4432-a880-e8d9afd3a692</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='OverlayWrapper']/div[8]/div</value>
+      <webElementGuid>999ca78a-ef24-4be7-8851-46fb30a61958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paragraph System [Root]'])[1]/following::div[1]</value>
+      <webElementGuid>e1f28a29-5d32-47ed-8f81-c6bb39a61ef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Article Intro [Root]'])[1]/following::div[2]</value>
+      <webElementGuid>ff2c5ed7-59ac-4268-a719-aa9e6c4ce253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Article Tags [Root]'])[1]/preceding::div[2]</value>
+      <webElementGuid>3e9295f9-ef6f-4c9a-8137-6b65c30688fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div</value>
+      <webElementGuid>a0fdec43-7eb6-4843-94f1-90d0bf24688f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Article Paragraph' and (text() = 'Article Paragraph' or . = 'Article Paragraph')]</value>
+      <webElementGuid>5009df11-e058-40c2-b77a-2771be79a1ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

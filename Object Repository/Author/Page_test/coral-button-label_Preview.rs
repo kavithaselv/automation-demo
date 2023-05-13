@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>coral-button-label_Preview</name>
+   <tag></tag>
+   <elementGuidId>05c79621-8881-4e92-9daf-73708aaccf99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Content']/div/coral-actionbar/coral-actionbar-secondary/coral-actionbar-item[3]/button/coral-button-label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.editor-GlobalBar-item.js-editor-LayerSwitcherTrigger.editor-GlobalBar-previewTrigger.js-editor-GlobalBar-previewTrigger.coral3-Button.coral3-Button--minimal > coral-button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>coral-button-label</value>
+      <webElementGuid>80942816-80d4-4b41-83b5-cef5b4c63bec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Preview</value>
+      <webElementGuid>9802d9b2-6015-42b9-ad0e-374424e5f115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Content&quot;)/div[@class=&quot;editor-GlobalBar js-editor-PanelHeader editor-panel-header&quot;]/coral-actionbar[@class=&quot;header-main coral3-ActionBar&quot;]/coral-actionbar-secondary[@class=&quot;coral3-ActionBar-secondary&quot;]/coral-actionbar-item[@class=&quot;coral3-ActionBar-item&quot;]/button[@class=&quot;editor-GlobalBar-item js-editor-LayerSwitcherTrigger editor-GlobalBar-previewTrigger js-editor-GlobalBar-previewTrigger coral3-Button coral3-Button--minimal&quot;]/coral-button-label[1]</value>
+      <webElementGuid>98211f78-9552-40b4-9e97-e6c4deee0e1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Content']/div/coral-actionbar/coral-actionbar-secondary/coral-actionbar-item[3]/button/coral-button-label</value>
+      <webElementGuid>20de64a5-c9c2-42d6-91b2-009db30bc86f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/following::coral-button-label[1]</value>
+      <webElementGuid>fe7c36f0-b819-404e-b483-a718be26f30a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clay Tablet Home Page'])[1]/following::coral-button-label[4]</value>
+      <webElementGuid>0f0dab2d-e4eb-4fc0-8c39-53786fb6fc78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BRAND'])[1]/preceding::coral-button-label[2]</value>
+      <webElementGuid>8533c2ca-15ea-414b-b2aa-9fe6c8f101a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a brand'])[1]/preceding::coral-button-label[3]</value>
+      <webElementGuid>1dd55c4c-e3aa-41b9-ac88-2332159b269b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Preview']/parent::*</value>
+      <webElementGuid>9c393ee8-be5f-4ecc-938b-1904f25cd7c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//coral-actionbar-item[3]/button/coral-button-label</value>
+      <webElementGuid>9ca5db6d-859a-4a7f-9774-300dd37a6bac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//coral-button-label[(text() = 'Preview' or . = 'Preview')]</value>
+      <webElementGuid>92ff3966-f5fc-44a4-8ae6-37236fd48159</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

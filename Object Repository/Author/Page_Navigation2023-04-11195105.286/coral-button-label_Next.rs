@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>coral-button-label_Next</name>
+   <tag></tag>
+   <elementGuidId>84863a29-14cc-4954-acb1-75b243a30faf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//coral-panelstack[@id='coral-id-11']/coral-panel/coral-panel-content/div/button/coral-button-label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>coral-button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>coral-button-label</value>
+      <webElementGuid>2756ef93-b803-438d-ba2e-e7b87b3e9648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>73d62065-5a06-45c6-9179-2fdcd0b3ee1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;coral-id-11&quot;)/coral-panel[@class=&quot;coral3-Panel is-selected&quot;]/coral-panel-content[1]/div[@class=&quot;foundation-layout-inline2 foundation-layout-inline2-gap&quot;]/button[@class=&quot;foundation-layout-inline2-item foundation-wizard-control coral3-Button coral3-Button--primary&quot;]/coral-button-label[1]</value>
+      <webElementGuid>9e0d4f2e-0558-425d-91a4-addc6dd6adbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//coral-panelstack[@id='coral-id-11']/coral-panel/coral-panel-content/div/button/coral-button-label</value>
+      <webElementGuid>4d52d0bb-e550-4cc4-8836-fc48b418abfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::coral-button-label[1]</value>
+      <webElementGuid>abfea13f-6430-4a0a-9751-6238525fb716</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Properties'])[1]/following::coral-button-label[1]</value>
+      <webElementGuid>45e30e86-5c57-4036-9535-3d0641b3aefd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::coral-button-label[1]</value>
+      <webElementGuid>41a1d768-e651-406a-9c47-539cf46b72df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/preceding::coral-button-label[2]</value>
+      <webElementGuid>92356acc-093b-487d-b28d-76ffd32141b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
+      <webElementGuid>57d3bc18-0c58-4297-a62a-ba2967593753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//coral-button-label</value>
+      <webElementGuid>2a44171b-7644-427a-a19a-f67ab7919d16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//coral-button-label[(text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>b31df581-4718-448f-9017-67b1b69fac34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

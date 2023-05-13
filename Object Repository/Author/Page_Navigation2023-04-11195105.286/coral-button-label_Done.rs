@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>coral-button-label_Done</name>
+   <tag></tag>
+   <elementGuidId>7bde20ca-5145-45df-ae76-c7795ef1877a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Your page has been created.'])[1]/following::coral-button-label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>coral-dialog-footer.coral3-Dialog-footer > button.coral3-Button.coral3-Button--secondary > coral-button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>coral-button-label</value>
+      <webElementGuid>8f6242fd-2b7e-444f-8b0d-2c36edf7ddd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Done</value>
+      <webElementGuid>65d67c87-2c6f-41a7-8599-c0c1b2055945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;foundation-layout-util-maximized-alt skipCoral2Validation wf-adobeclean-i4-active wf-adobeclean-n3-active wf-adobeclean-n4-active wf-adobeclean-n7-active wf-adobecleancondensed-n4-active wf-adobecleancondensed-n7-active wf-active&quot;]/body[@class=&quot;foundation-layout-util-maximized-alt coral--light u-coral-noscroll&quot;]/coral-dialog[@class=&quot;coral3-Dialog coral3-Dialog--success is-open&quot;]/div[@class=&quot;coral3-Dialog-wrapper&quot;]/coral-dialog-footer[@class=&quot;coral3-Dialog-footer&quot;]/button[@class=&quot;coral3-Button coral3-Button--secondary&quot;]/coral-button-label[1]</value>
+      <webElementGuid>87b72d85-64a1-40e3-9732-3ddc0a2e11d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your page has been created.'])[1]/following::coral-button-label[1]</value>
+      <webElementGuid>b8f63bd4-f8be-444b-8581-7bed39f948f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/following::coral-button-label[2]</value>
+      <webElementGuid>5cb116a1-0106-4040-a253-7ef83aa5c10d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[1]/preceding::coral-button-label[1]</value>
+      <webElementGuid>d46365cf-0516-45c2-8b6e-edb41e8d1995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Done']/parent::*</value>
+      <webElementGuid>7ae7dcbd-d23b-4748-a292-9cad53b4af4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//coral-dialog-footer/button/coral-button-label</value>
+      <webElementGuid>b82f75bb-1ec0-4cc0-be1f-24ce9071cade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//coral-button-label[(text() = 'Done' or . = 'Done')]</value>
+      <webElementGuid>6ddc33eb-34e0-414e-bba4-88bec47c55b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

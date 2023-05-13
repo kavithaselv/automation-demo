@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Image_coral-Icon coral-Icon--sizeS coral-_7e9c5b</name>
+   <tag></tag>
+   <elementGuidId>bce0be34-6c90-45dc-a9a6-b7784dc46d4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='coral-1']/div/section/div[3]/span/span/span/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.coral-Icon.coral-Icon--sizeS.coral-Icon--folderSearch</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>79c71c0f-40e7-4f0c-96e2-2b97c50ddea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>coral-Icon coral-Icon--sizeS coral-Icon--folderSearch</value>
+      <webElementGuid>ad7b9466-c031-4dd7-bc9a-014585a6e6ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;coral-1&quot;)/div[@class=&quot;coral-FixedColumn-column&quot;]/section[@class=&quot;coral-Form-fieldset&quot;]/div[@class=&quot;coral-Form-fieldwrapper&quot;]/span[@class=&quot;coral-Form-field coral-PathBrowser&quot;]/span[@class=&quot;coral-InputGroup coral-InputGroup--block&quot;]/span[@class=&quot;coral-InputGroup-button&quot;]/button[@class=&quot;coral-Button coral-Button--square js-coral-pathbrowser-button&quot;]/i[@class=&quot;coral-Icon coral-Icon--sizeS coral-Icon--folderSearch&quot;]</value>
+      <webElementGuid>dd39fe1b-e117-4bbd-8663-b628d243f394</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='coral-1']/div/section/div[3]/span/span/span/button/i</value>
+      <webElementGuid>fc1fca8c-103e-49eb-8e24-7a3bae6030cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>d9e4379f-8132-4717-be1b-c9da3568c83f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

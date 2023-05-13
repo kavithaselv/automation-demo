@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>coral-button-label_Create</name>
+   <tag></tag>
+   <elementGuidId>62eea713-c870-4a9b-b522-7ce863cf45ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//betty-titlebar[@id='granite-shell-actionbar']/betty-titlebar-secondary/button[4]/coral-button-label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.granite-collection-create.foundation-toggleable-control.coral3-Button.coral3-Button--primary > coral-button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>coral-button-label</value>
+      <webElementGuid>e890495f-d2b2-4c66-895a-ee8def239fcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create</value>
+      <webElementGuid>816aff98-283e-47b5-901a-e9e36c9b71e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;granite-shell-actionbar&quot;)/betty-titlebar-secondary[1]/button[@class=&quot;granite-collection-create foundation-toggleable-control coral3-Button coral3-Button--primary&quot;]/coral-button-label[1]</value>
+      <webElementGuid>da2ec4bc-97c5-481f-8b0f-93bc7745bb22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//betty-titlebar[@id='granite-shell-actionbar']/betty-titlebar-secondary/button[4]/coral-button-label</value>
+      <webElementGuid>47f1804d-0f0a-40dc-baf8-bc16bdfc3d03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paste without children'])[1]/following::coral-button-label[1]</value>
+      <webElementGuid>d86393bb-8123-41b4-93d3-e5501d465c63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(ctrl+v)'])[1]/following::coral-button-label[3]</value>
+      <webElementGuid>a6754921-b12b-4c1c-a09b-70ae0fd22639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page'])[1]/preceding::coral-button-label[2]</value>
+      <webElementGuid>f5a6aaf9-757c-4808-98f8-f34d1cf79c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site'])[1]/preceding::coral-button-label[2]</value>
+      <webElementGuid>65f5d9f9-8b43-4fbe-99c0-df68f18a4ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create']/parent::*</value>
+      <webElementGuid>9341d549-456a-4356-8b60-0d36dcb46ae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]/coral-button-label</value>
+      <webElementGuid>41046a37-d092-41e8-8928-39e06aa7d8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//coral-button-label[(text() = 'Create' or . = 'Create')]</value>
+      <webElementGuid>4f97f90f-fa2f-4188-a9a3-782aa322a7ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
